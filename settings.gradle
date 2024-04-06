@@ -1,0 +1,4 @@
+rootProject.name = 'Demo_Auth'
+include 'core'
+include 'socket'
+
